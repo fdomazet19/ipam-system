@@ -1,0 +1,15 @@
+body {
+    background-color: #f4f6f8;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.card {
+    border: 0;
+}
+
+table {
+    background-color: white;
+}

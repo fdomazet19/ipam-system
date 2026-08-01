@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f6f8;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.card {
+    border: 0;
+}
+
+table {
+    background-color: white;
+}
+.chart-container {
+    position: relative;
+    min-height: 360px;
+}
+
+.card h2 {
+    font-weight: 700;
+}
